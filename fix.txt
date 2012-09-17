@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Thi file intentionally left blank
+=======
 Noah was hereadsf
+>>>>>>> trainer/master
