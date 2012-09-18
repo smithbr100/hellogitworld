@@ -1,0 +1,5 @@
+# Thoughts about feature 9
+
+* Do the thing
+* Make it better
+* Make it fast
