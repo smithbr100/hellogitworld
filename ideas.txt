@@ -3,3 +3,5 @@
 * Do the thing
 * Make it better
 * Make it fast
+* Make it pretty (things have to be pretty for designers)
+* Share it with Matthew McCullough's Mother (she likes to see what he does)
